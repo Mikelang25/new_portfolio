@@ -1,0 +1,28 @@
+
+.contact-container{
+    padding:30px;
+    margin-top:40px;
+    background-color: white;
+    border:5pt solid grey;
+    border-radius: 5px;
+}
+
+.lbl-contact{
+    margin-top:10px;
+    font-weight: bold;
+}
+
+.inp-name, .inp-email{
+    width: 300px;
+    text-indent: 3px;
+}
+
+.inp-phone{
+    text-align:center;
+}
+
+.inp-message{
+    width:90%;
+    height:100px;
+    text-indent: 3px;
+}

@@ -1,0 +1,53 @@
+
+body{
+  background-image: URL("/dark-paths.png");
+}
+
+.img-linkedin{
+  margin-right:10px;
+  margin-left:15px;
+}
+
+.linkedin{
+  text-decoration: none!important;
+  color:white;
+}
+
+.site-container{
+  padding-top:20px;
+}
+
+
+.nav{
+  display: inline-block;
+  padding:10px;
+  background-color: white;
+  border-radius: 10px;
+  color:black;
+  width:15%;
+  margin-right:10px;
+}
+
+.nav-left{
+  margin-top:20px;
+}
+
+.nav:hover{
+  background-color: black;
+  color:white;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: right;
+    padding:15px;
+}
+
+.icons-footer{
+  color: white;
+  text-decoration: none !important;
+}
