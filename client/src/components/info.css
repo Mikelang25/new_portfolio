@@ -12,6 +12,18 @@
     color:black;
 }
 
+.job{
+    font-family: 'Vollkorn', serif;
+}
+
+.span-school, .span-info{
+    font-family: 'Vollkorn', serif;
+}
+
+.span-info{
+    font-size: 14pt;
+}
+
 .about-container{
     border:5pt solid grey;
     margin-top:40px;
@@ -19,6 +31,24 @@
     padding:20px;
     border-radius: 5px;
     background-color: white;
+}
+
+.skills-container{
+    margin-top:20px;
+    border:5pt solid grey;
+    margin-left:15px;
+    padding:20px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.head-about, .head-pos, .head-comp{
+    font-family: 'Bree Serif', serif;
+}
+
+.par-about, .par-skills{
+    font-family: 'Vollkorn', serif;
+    font-size: 12pt;
 }
 
 .job-container{
@@ -37,9 +67,4 @@
 
 .resp{
     margin-top:15px;
-}
-
-.skills-container{
-    position: absolute;
-    bottom:0;
 }

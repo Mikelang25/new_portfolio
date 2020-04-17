@@ -12,7 +12,7 @@
     width: 220px;
     height: 220px;
     display: inline-block;
-    border:1pt solid black;
+    border:3pt solid black;
     text-align: center;
     position: relative;
     margin:10px;
@@ -26,6 +26,8 @@
     bottom:0;
     width:100%;
     font-size: 12pt;
+    font-family: 'Vollkorn', serif;
+    font-weight: bold;
 }
 
 .proj{

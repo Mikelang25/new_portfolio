@@ -7,22 +7,32 @@
     border-radius: 5px;
 }
 
+.head-contact{
+    font-family: 'Bree Serif', serif;
+}
+
 .lbl-contact{
     margin-top:10px;
     font-weight: bold;
+    font-family: 'Bree Serif', serif;
 }
 
 .inp-name, .inp-email{
     width: 300px;
     text-indent: 3px;
+    font-family: 'Vollkorn', serif;
 }
 
 .inp-phone{
+    font-family: 'Vollkorn', serif;
+    text-indent: 3px;
     text-align:center;
+    width: 25%;
 }
 
 .inp-message{
     width:90%;
     height:100px;
     text-indent: 3px;
+    font-family: 'Vollkorn', serif;
 }

@@ -10,6 +10,7 @@ body{
 
 .linkedin{
   text-decoration: none!important;
+  font-family: 'Bree Serif', serif;
   color:white;
 }
 
@@ -26,6 +27,8 @@ body{
   color:black;
   width:15%;
   margin-right:10px;
+  font-family: 'Bree Serif', serif;
+  border: 3pt solid grey;
 }
 
 .nav-left{
@@ -39,6 +42,7 @@ body{
 
 .footer{
     position: fixed;
+    border-top: 1pt solid whitesmoke;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -50,4 +54,5 @@ body{
 .icons-footer{
   color: white;
   text-decoration: none !important;
+  font-family: 'Vollkorn', serif;
 }
