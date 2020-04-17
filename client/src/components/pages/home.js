@@ -64,6 +64,11 @@ class Home extends Component {
                         {this.renderTab()}
                     </div>
                 </div>
+                <div className="row">
+                    <div className="col-md-12 space-container">
+
+                    </div>
+                </div>
                 <footer className="footer">
                     <a className="icons-footer" href="https://icons8.com/icon/118979/linkedin">Icons by Icons8</a>
                 </footer>
