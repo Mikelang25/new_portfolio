@@ -68,3 +68,31 @@
 .resp{
     margin-top:15px;
 }
+
+@media only screen and (max-width: 640px)  {
+  
+    .job-container,.skills-container, .about-container{
+        margin-left:0;
+        margin-right:0;
+    }
+  
+  
+}
+  
+@media only screen and (max-width: 768px)  {
+    
+    .job-container,.skills-container, .about-container{
+        margin-left:0;
+        margin-right:0;
+    }
+  
+}
+  
+@media only screen and (max-width: 1100px)  {
+    
+    .job-container,.skills-container, .about-container{
+        margin-left:0;
+        margin-right:0;
+    }
+  
+}

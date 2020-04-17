@@ -24,7 +24,7 @@ function Info() {
                             </p>
                         </div>
                     </div>
-                    <div class="row">
+                    <div className="row">
                         <div className="col-md-12 skills-container">
                             <h5>Education</h5>
                             <div className="row">

@@ -60,7 +60,7 @@ class Home extends Component {
                 </div>
                 <div className="row">
                     <div className="col-md-1"></div>
-                    <div className="col-md-11">
+                    <div className="col-md-11 main-content">
                         {this.renderTab()}
                     </div>
                 </div>
