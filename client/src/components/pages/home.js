@@ -65,8 +65,7 @@ class Home extends Component {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-md-12 space-container">
-
+                    <div className="col-md-12 space-container">                     
                     </div>
                 </div>
                 <footer className="footer">

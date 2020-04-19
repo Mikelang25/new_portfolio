@@ -45,7 +45,7 @@ function Info() {
                             </div>
                             <div className="row">
                                 <div className="col-md-8">
-                                <span className="span-school">Quinnipiac Univeristy - Bachelors Business Finance</span>
+                                <span className="span-school">Quinnipiac University - Bachelors Business Finance</span>
                                 </div>
                                 <div className="col-md-4">
                                     <span className="span-school"> Aug. 2010 - May. 2014</span>
