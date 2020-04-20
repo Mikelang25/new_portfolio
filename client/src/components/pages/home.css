@@ -1,7 +1,8 @@
 
 body{
-  background-image: URL("/dark-paths.png");
+  background-image: URL("/sky.jpg");
   overflow-y: scroll;
+  background-size: cover;
 }
 
 .img-linkedin{
