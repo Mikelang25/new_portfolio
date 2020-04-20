@@ -55,7 +55,7 @@ function Info() {
                     </div>
                     <div className="row">
                         <div className="col-md-12 skills-container">
-                            <h5 className="head-comp">Relevent Technical Compentencies</h5>
+                            <h5 className="head-comp">Relevent Technical Proficiencies</h5>
                             <p className="par-skills">
                                 HTML5, CSS3, JavaScript, React, jQuery, Bootstrap, Express.js, Node, MongoDB, Mongoose, MySQL, Sequelize, APIs (creation/utilization), AJAX, Git Bash.
                             <br></br>Additionally: Microsoft Access, Excel, Visio, VBA
