@@ -38,8 +38,8 @@ function Portfolio() {
                     <div className="col-md-12 info-container text-left">
                         <div className="row">
                             <div className="col-md-12 text-center button-container">
-                                <button className="btn-proj"><a className="external-link" href="https://github.com/Mikelang25/EMP-MGMT">Code Repo</a></button><br></br>
-                                <button className="btn-proj"><a className="external-link" href="ttps://mikelang25.github.io/Project_1/">Deployed App</a></button>
+                                <button className="btn-proj"><a className="external-link" href="https://github.com/Mikelang25/premierLeagueFanzone">Code Repo</a></button><br></br>
+                                <button className="btn-proj"><a className="external-link" href="https://mikelang25.github.io/premierLeagueFanzone/">Deployed App</a></button>
                             </div>
                         </div>
                         <h5 className="descr-header">Premier League Fan Zone</h5>
@@ -80,8 +80,8 @@ function Portfolio() {
                     <div className="col-md-12 info-container text-left">
                         <div className="row">
                             <div className="col-md-12 text-center button-container">
-                                <button className="btn-proj"><a className="external-link" href="https://github.com/Mikelang25/userCalendar">Code Repo</a></button><br></br>
-                                <button className="btn-proj"><a className="external-link" href="https://shrouded-hollows-79683.herokuapp.com/">Deployed App</a></button>
+                                <button className="btn-proj"><a className="external-link" href="https://github.com/Mikelang25/hero_battle">Code Repo</a></button><br></br>
+                                <button className="btn-proj"><a className="external-link" href="https://mikelang25.github.io/hero_battle/">Deployed App</a></button>
                             </div>
                         </div>
                         <h5 className="descr-header">Hero Battle</h5>
