@@ -17,14 +17,14 @@ function Portfolio() {
                     <div className="col-md-12 info-container text-left">
                         <div className="row">
                             <div className="col-md-12 text-center">
-                                <button className="btn-proj"><a className="external-link" href="https://github.com/Mikelang25/EMP-MGMT">Code Repo</a></button><br></br>
-                                <button className="btn-proj"><a className="external-link" href="https://serene-savannah-13108.herokuapp.com/">Deployed App</a></button>
+                                <button className="btn-proj"><a className="external-link" href="https://github.com/Mikelang25/issue_management">Code Repo</a></button><br></br>
+                                <button className="btn-proj"><a className="external-link" href="https://employee-issue-management.herokuapp.com/#/">Deployed App</a></button>
                             </div>
                         </div>
                         <h5 className="descr-header">Employee Management</h5>
                         <p className="descr-cont">An App that allows a manager or owner to store employee information as well as issues related to that employee.</p>
                         <h5 className="descr-header">Technologies Used</h5>
-                        <p className="descr-cont">React, Bootstrap, AWS S3, Express.js, Nodemailer, Victory.js, SQL/Sequelize, Heroku</p>
+                        <p className="descr-cont">React, Bootstrap, AWS S3, Express.js, Victory.js, SQL/Sequelize, Heroku</p>
                     </div>
                 </div>
             </div>
